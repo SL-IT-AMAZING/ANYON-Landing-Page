@@ -137,7 +137,7 @@ export default function DownloadPage() {
                     Windows 10 or later
                   </p>
                 </div>
-                <a href="/downloads/ANYON-windows.exe" download>
+                <a href="/downloads/Anyon_0.0.1_x64-setup.exe" download>
                   <InteractiveHoverButton
                     text="Download"
                     className="w-36 h-11"
@@ -163,7 +163,7 @@ export default function DownloadPage() {
                     macOS 11 or later
                   </p>
                 </div>
-                <a href="/downloads/ANYON-mac.dmg" download>
+                <a href="/downloads/Anyon_0.0.1_aarch64.dmg" download>
                   <InteractiveHoverButton
                     text="Download"
                     className="w-36 h-11"
